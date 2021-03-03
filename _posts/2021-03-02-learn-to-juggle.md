@@ -112,6 +112,9 @@ extension, Piaget's) learning ideas, trying to touch in only a few of
 the core ideas, but this one should be clear: **learning doesn't work
 like depositing packets in a bank**.
 
+![Cat in bank](/assets/img/Cat-in-bank.png "cat in bank")
+*Yes, I know... We all hope I can learn to draw better*
+
 That is an analogy drawn by Paulo Freire, in what he called the *banking
 model of education*, that is, regretfuly, the model of education most
 in use in most schools. The idea there is that learning somehow works
@@ -163,7 +166,7 @@ Now, there are many kinds of juggling, but we'll be focusing in the
 cascade one (in constrast to, for instance, the "shower" kind of
 juggling)
 
-![cascade-shower](juggling-cat.png)
+![cascade-shower](/assets/img/Juggler.png "Juggler")
 
 If you're interested in juggling and you go by that "banking model of
 education" briefly discussed above, you should expect to face many
@@ -181,7 +184,7 @@ That, by the way, is a reason why Papert argued computers can be so
 good for learning, so for acquiring new (and powerful) mental
 constructions: 
 
-- by programming, we build a process;
+- by programming, we build a *process*;
 - one can more easily learn to isolate different parts of
   the process, and to name them (in what is usually called
   "procedures" or "functions" in programmign languages);
@@ -191,7 +194,7 @@ constructions:
   
 We can materialize that as a "people procedure" for the case of juggling.
 
-The goal is to come up with a *procedure* we'll call "**To-Juggle**".
+The goal is to come up with a *procedure* "**To-Juggle**".
 
 As a first step, we identify and name subprocedures that might helps
 us achieve that goal. For us, natural candidates seem to be
@@ -221,10 +224,10 @@ For *To-Juggle* we'll use two *When Daemons*, namely *When something
 Toss-Left" and *When something Toss-Right", where "*something*" stands
 for some condition we'll have to fill in.
 
-These conditions we'll call "*Top-Right*" and "*Top-Left*", standing
-for the following states
+These conditions we'll call "*Top-Right*" and "*Top-Left*". Top left,
+stands for the following state (and *Top Right* for the analogous one)
 
-![to-right-left]()
+![Top-left](/assets/img/Top-left.png)
 
 With that, we get our full procedure:
 
