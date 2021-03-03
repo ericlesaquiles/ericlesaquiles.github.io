@@ -3,7 +3,7 @@ title: Optimization, learning and life
 author: Éricles Lima
 date: 2021-01-11 20:55:00 +0800
 categories: [Math, Optimization, Machine Learning]
-tags: [applied maths]
+tags: [Applied Maths]
 pin: false
 usemathjax: true
 ---

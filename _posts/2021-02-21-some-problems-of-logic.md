@@ -1,4 +1,4 @@
----                                                                     
+---
 title: On Some Problems of Logic
 author: Éricles Lima
 date: <2021-02-21 dom>
@@ -47,4 +47,8 @@ good starting point.
 
 ## On the many non-classical logics
 
-# Is logic exceptional?
+# Is logic exceptional? The non-exceptionality of logic
+
+# Is there something worth the name of "the one true logic"?
+
+# Why study logic(s)
